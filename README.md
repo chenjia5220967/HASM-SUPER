@@ -49,15 +49,15 @@ The Washington DC hyperspectral dataset encompasses high-resolution imaging of t
 
 ## Experimental result
 
-### result 1.
+### result 1 （Pavia）.
 <p align="center">
 <img src="./result1.png" alt="drawing" width="700"/>
 
 
-### result 2.
+### result 2（Washington DC）.
 <p align="center">
 <img src="./result2.png" alt="drawing" width="700"/>
 
-### result 3.
+### result 3（Berlin Urban）.
 <p align="center">
 <img src="./result3.png" alt="drawing" width="700"/>
